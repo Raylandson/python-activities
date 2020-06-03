@@ -1,1 +1,1 @@
-# python-activities
+# python-activities from the guanabara course

@@ -26,4 +26,4 @@ for c, v in enumerate(soccer['goals']):
     print(f"=> In the {c+1}º match, has score {v} goals".rjust(40))
 
 print(f"in the total has {soccer['total']} goals")
-
+# 123
