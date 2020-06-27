@@ -1,6 +1,2 @@
-def line(x):
-	print('-'* x)
-	
-
-print(line(x))
-
+from random import *
+print(randint(1, 4))
